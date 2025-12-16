@@ -43,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 [Deepika EX 4.2.pdf](https://github.com/user-attachments/files/24192510/Deepika.EX.4.2.pdf)
+<img width="1114" height="805" alt="image" src="https://github.com/user-attachments/assets/3a328dd2-e102-43b5-9323-83bc86401ded" />
+
 
 ## RESULT:
 Thus, the cut section for solid model is created.
